@@ -5,7 +5,7 @@ function open_close_menu() {
         document.getElementById("menu").style.display = "none"
     }
     else{
-        document.getElementById("menu").style.display = "block"
+        document.getElementById("menu").style.display = "table"
     }
 
 
