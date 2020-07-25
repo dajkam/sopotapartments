@@ -8,6 +8,11 @@ body {
     display: none;
 }
 
+#menu {
+
+    display: table;
+}
+
 
 .navbar {
     overflow: hidden;
